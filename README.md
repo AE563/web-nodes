@@ -68,5 +68,3 @@ Clouds
 Balancing
 As far as I understand, there are no separate solutions for balancing.
 They are either at the level of the web server, or at the host.
-
-5. [ ] ВОПРОС
