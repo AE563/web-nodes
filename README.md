@@ -36,14 +36,14 @@ Notification systems
 <br>
 
 Payment systems
-- [Тинькофф](https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/preparing/)
-- [СберБизнес](http://www.sberbank.ru/ru/s_m_business/bankingservice/acquiring_total)
-- [ЮKassa](https://yookassa.ru/kak-podklyuchit-platezhnuyu-sistemu-k-saytu/)
+- [Tinkoff](https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/preparing/)
+- [SberBusiness](http://www.sberbank.ru/ru/s_m_business/bankingservice/acquiring_total)
+- [UKassa](https://yookassa.ru/kak-podklyuchit-platezhnuyu-sistemu-k-saytu/)
 <br>
 
 Analytics
-- [Яндекс.Метрика](https://metrika.yandex.ru/promo?)
-- [Google Аналитика](https://analytics.google.com/analytics/web/#/provision)
+- [Yandex.Metrika](https://metrika.yandex.ru/promo?)
+- [Google Analytics](https://analytics.google.com/analytics/web/#/provision)
 - [Calltouch](https://www.calltouch.ru/)
 - [Adobe Analytics](https://business.adobe.com/ru/products/analytics/adobe-analytics.html)
 <br>
@@ -68,3 +68,5 @@ Clouds
 Balancing
 As far as I understand, there are no separate solutions for balancing.
 They are either at the level of the web server, or at the host.
+
+5. [ ] ВОПРОС
